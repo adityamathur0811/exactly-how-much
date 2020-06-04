@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gstSlabMenu"
+        android:icon="@drawable/ic_important"
+        android:title="@string/gst" />
+    <item
+        android:id="@+id/simple"
+        android:icon="@drawable/ic_simple"
+        android:title="@string/simple" />
+    <item
+        android:id="@+id/compound"
+        android:icon="@drawable/ic_compound"
+        android:title="@string/compound" />
+
+    <item
+        android:id="@+id/EMI"
+        android:icon="@drawable/ic_emi"
+        android:title="@string/emi" />
+
+</menu>

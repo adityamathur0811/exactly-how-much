@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Exactly How Much</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="GST">
+        <item>Animal feed,Aquatic feed,Betel leaves,Bread,Butter milk,Contraceptives</item>
+        <item>	Cut and semi-polished stones</item>
+        <item>Household necessities such as edible oil, sugar, spices, tea, and coffee (except instant),TEXTILE(clothes), sweets/Medicine</item>
+        <item>This includes computers and processed food</item>
+
+        <item>
+        	Hair oil, toothpaste and soaps, capital goods and industrial intermediaries
+    </item>
+        <item>
+        Luxury items such as small cars, consumer durables like AC and Refrigerators, premium cars, cigarettes
+    </item>
+    </string-array>
+    <string name="final_amount">Final Amount</string>
+    <string name="amount">Amount</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="duration">Duration Years</string>
+    <string name="interest_amount">Interest Amount</string>
+    <string name="product_name">Product Name</string>
+    <string name="duration_months">Duration Months</string>
+    <string name="simple_interest">Simple Interest</string>
+    <string name="good_amp_service_tax"><![CDATA[Good & Service Tax]]></string>
+    <string name="compound_interest">Compound Interest</string>
+    <string name="enter_months">enter months</string>
+    <string name="get">get</string>
+    <string name="interest">Interest</string>
+    <string name="enter_interest_rate">Interest rate</string>
+    <string name="calculate_simple_interest">Calculate Simple Interest</string>
+    <string name="enter_amount">enter amount</string>
+    <string name="calculate_emi">Calculate EMI</string>
+    <string name="enter_years">enter years</string>
+    <string name="per_month_emi">Per Month EMI</string>
+    <string name="calculate_gst">Calculate GST</string>
+    <string name="enter_product_name">product Name</string>
+    <string name="enter_product_price">product Price</string>
+    <string name="select_gst_slab">select Product type</string>
+    <string name="gst_amount">GST Amount</string>
+    <string name="calculate_compound_interest">Calculate Compound Interest</string>
+    <string name="emi_amount">EMI amount</string>
+    <string name="gst_rate">GST Rate</string>
+    <string name="price">Price</string>
+    <string name="gst">GST</string>
+    <string name="compound">Compound</string>
+    <string name="simple">Simple interest</string>
+    <string name="emi">EMI</string>
+</resources>

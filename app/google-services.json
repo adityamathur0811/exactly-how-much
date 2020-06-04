@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960664659349",
+    "firebase_url": "https://fir-first-993e5.firebaseio.com",
+    "project_id": "fir-first-993e5",
+    "storage_bucket": "fir-first-993e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960664659349:android:c92602eda82b8b0c7f429c",
+        "android_client_info": {
+          "package_name": "com.aditya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960664659349-m3kse1otpq1pcs23d23orevas5oog318.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.myapplication",
+            "certificate_hash": "54ae938ac2bc6dde599cb2cfa6f4314968de60ef"
+          }
+        },
+        {
+          "client_id": "960664659349-me27jv6575h2hp5frovmac9o3glg31ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0_3xLDXU_1VZyuQCyIKV94RDFM8hlFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960664659349-me27jv6575h2hp5frovmac9o3glg31ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
