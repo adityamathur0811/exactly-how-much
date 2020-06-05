@@ -1,8 +1,10 @@
 ### BUILD IN KOTLIN
 This project titled "exactly-how-much" is a part of "30 Days Of Kotlin with Google Developers Project Submission".
 
+   
+Added some screenshots here        
 
-Added some screenshots here
+
 ![](https://github.com/adityamathur0811/exactly-how-much/blob/master/app_images/1.jpg)
 ![](https://github.com/adityamathur0811/exactly-how-much/blob/master/app_images/2.jpg)
 ![](https://github.com/adityamathur0811/exactly-how-much/blob/master/app_images/3.jpg)
