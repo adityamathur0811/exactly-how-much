@@ -1,6 +1,10 @@
 ### BUILD IN KOTLIN
 This project titled "exactly-how-much" is a part of "30 Days Of Kotlin with Google Developers Project Submission".
 
+
+Added some screenshots here
+![](https://github.com/adityamathur0811/exactly-how-much/blob/master/images/1.png)
+
 ### exactly-how-much
 this is an android app build with kotlin which help user to calculate GST , Emi , Simple interest , Compound interest and all your calculation will be stored in the firebase realtime database(stores diffrent data for diffrent-diffrent users) so you can see all your previous calculations data  anytime, you don't need to remember anything or calculate same calculation again and again you can see a copy of your previously calculation on your home screen  and you dont need to worry about data because if you reinstall the app all your previous data will be back after installing the app again
 
